@@ -1,0 +1,10 @@
+C:\Users\hawraa\Desktop\pass image 2\pass image 2\bin\Debug\pass image 2.exe.config
+C:\Users\hawraa\Desktop\pass image 2\pass image 2\obj\Debug\pass image 2.csprojResolveAssemblyReference.cache
+C:\Users\hawraa\Desktop\pass image 2\pass image 2\obj\Debug\pass_image_2.Form1.resources
+C:\Users\hawraa\Desktop\pass image 2\pass image 2\obj\Debug\pass_image_2.Form2.resources
+C:\Users\hawraa\Desktop\pass image 2\pass image 2\obj\Debug\pass_image_2.Properties.Resources.resources
+C:\Users\hawraa\Desktop\pass image 2\pass image 2\obj\Debug\pass image 2.csproj.GenerateResource.Cache
+C:\Users\hawraa\Desktop\pass image 2\pass image 2\bin\Debug\pass image 2.exe
+C:\Users\hawraa\Desktop\pass image 2\pass image 2\bin\Debug\pass image 2.pdb
+C:\Users\hawraa\Desktop\pass image 2\pass image 2\obj\Debug\pass image 2.exe
+C:\Users\hawraa\Desktop\pass image 2\pass image 2\obj\Debug\pass image 2.pdb
